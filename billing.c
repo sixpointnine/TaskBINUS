@@ -1,3 +1,4 @@
+//TUGAS KELOMPOK 2 JCCA GROUP 4 
 #include <stdio.h>
 #include <stdlib.h> // Untuk menggunakan fungsi system
 
